@@ -1,0 +1,15 @@
+----------------- 1 --------------------
+Mehmonxona strukturasini CRUD asosida yozing, bunda Hotel(name),
+Room(number, floor, size, Hotel) class lar bo'lsin. Hotel id orqali
+shu mehmonxonaga tegishli room lar ro'yxatini pageable qilib olib keluvchi
+method yozing. Proyektni git ga public qilib yuklang va vazifaga javob sifatida
+shu git repository ning link address ni yuboring.
+
+
+------------------- 2 -------------------------
+
+Video darslikda berilgan topshiriq asosida  proyektni olib,
+Student ning to'liq CRUD bo'lgan qismini gitga o'zingiz yangi repository ochib
+yuklang va vazifaga javob sifatida shu git repository ning link address ni yuboring.
+Darsdagi repositoryga link:
+https://github.com/sirojiddinEcma/app-jpa-relationships.git
